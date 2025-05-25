@@ -1,6 +1,5 @@
 import sys
 import os
-import json
 import subprocess
 from PyQt6.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton, QFileDialog,
                              QLabel, QComboBox, QLineEdit, QMessageBox, QProgressBar, QTextEdit)
