@@ -3,5 +3,4 @@
 *.pyc
 /.venv
 /.idea
-/bin
 /__pycache__
